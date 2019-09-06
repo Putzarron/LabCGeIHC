@@ -33,6 +33,9 @@
     <ClCompile Include="src\TimeManager.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="src\FirstPersonCamera.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Headers\AbstractModel.h">
@@ -51,6 +54,12 @@
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
     <ClInclude Include="src\Headers\TimeManager.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Headers\Camera.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Headers\FirstPersonCamera.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
